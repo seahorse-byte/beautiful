@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+}
+.wrapper {
+  background-color: aquamarine;
+  text-align: center;
+}
+
+.first-paragraph {
+  color: grey;
+}
